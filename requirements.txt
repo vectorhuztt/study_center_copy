@@ -3,6 +3,6 @@ pynput
 ddt==1.2.1
 ParamUnittest==0.2
 PyMySQL==0.9.3
-PyYAML==5.1
+PyYAML==5.4
 selenium==3.141.0
 urllib3==1.25.1
