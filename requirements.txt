@@ -5,4 +5,4 @@ ParamUnittest==0.2
 PyMySQL==0.9.3
 PyYAML==5.1
 selenium==3.141.0
-urllib3==1.25.1
+urllib3==1.26.5
